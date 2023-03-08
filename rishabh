@@ -40,7 +40,7 @@ qrcode
 requests
 search-engine-parser
 selenium
-setuptools
+setuptools==66.0.0
 ShazamAPI
 spamwatch
 speedtest-cli
